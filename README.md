@@ -4,7 +4,7 @@ Online-shopping has established itself as a colossal force in the world of retai
 where. German retail giants from the early 2000s like Karstadt and Galeria Kaufhof were, despite
 fusing into one company, not able to adapt to this and became dependent on subsidization from the
 german government to remain operational - an unimaginable thought two decades ago. This data
-warehousing project will illustrate the development to the status quo and take a deeper look at the
+warehousing project illustrates the development to the status quo and takes a deeper look at the
 impact of online-shopping's growth on retail stores.
 
 # Data Warehouse Aggregation
